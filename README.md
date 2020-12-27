@@ -1,2 +1,2 @@
 # Coursera_Capstone_Repo
-a new one
+Coursera Capstone Repository
